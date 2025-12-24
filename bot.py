@@ -14,7 +14,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 # ================ НАСТРОЙКИ ================
 # ВПИШИ СЮДА СВОЙ ТОКЕН от @BotFather
-BOT_TOKEN = "ТВОЙ_ТОКЕН_ЗДЕСЬ"  # <-- ЗАМЕНИ ЭТУ СТРОКУ!
+BOT_TOKEN = "8385618233:AAFmyXG0IzyUOeG2UHXJupEpCZIvjt5kxZ4"  # <-- ЗАМЕНИ ЭТУ СТРОКУ!
 
 # Координаты (из твоего script.js)
 POS = {
